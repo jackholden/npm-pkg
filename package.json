@@ -18,7 +18,7 @@
     "url": "git+https://github.com/jackholden/npm-pkg.git"
   },
   "exports": {
-    ".": "./index.js"
+    ".": "./dist/index.js"
   },
   "files": [
     "dist"
